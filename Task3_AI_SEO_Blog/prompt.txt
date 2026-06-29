@@ -1,0 +1,11 @@
+Write an SEO-friendly blog article for a beauty salon called Glow Beauty Salon.
+
+Requirements:
+- Blog title with primary keyword.
+- 600–800 words.
+- Include an engaging introduction.
+- Use H2 and H3 headings.
+- Mention services like haircuts, facials, makeup, skincare, and bridal packages.
+- Include the keywords naturally throughout the article.
+- Add a conclusion with a call-to-action encouraging readers to book an appointment.
+- Write in a friendly, professional tone.
