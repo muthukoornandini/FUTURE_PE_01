@@ -1,0 +1,14 @@
+Act as a professional website copywriter.
+
+Create complete website copy for a local beauty salon.
+
+Include:
+
+- Homepage
+- About Us
+- Services
+- Why Choose Us
+- Contact Us
+- Call-to-Action
+
+The content should be professional, simple, persuasive, and SEO-friendly.
